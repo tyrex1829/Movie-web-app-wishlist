@@ -1,0 +1,15 @@
+{
+  "name": "js-api-movie-watchlist-master",
+  "version": "1.0.0",
+  "description": "A solo project from Scrimba (all code is from scratch). The only resource provided was a Figma design file and a link to use the [OMBb API](https://www.omdbapi.com/) and the following requirements:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "git": "^0.1.5"
+  }
+}
